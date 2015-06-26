@@ -1,0 +1,8 @@
+[package]
+name = "rustlogtest2"
+version = "0.1.0"
+authors = ["Automatl <ya@tomatl.org>"]
+
+[dependencies]
+log = "*"
+env_logger = "*"
